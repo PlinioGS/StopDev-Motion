@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: rgb(0, 0, 118);
+  color: yellow;
+  height: 12vh;
+  text-align: center;
+  padding-top: 3vh;
+}
+header li {
+  display: inline-block;
+  padding: 10px;
+}
+header a {
+  color: white;
+  text-decoration: none;
+  padding: 2vw;
+}
+
+.divTitulo {
+  width: 100%;
+  text-align: center;
+}
+
+.titulo {
+  display: inline-block;
+  font-size: 45px;
+  text-decoration: underline;
+}
+
+section {
+  background-image: url("");
+  height: 100vh;
+  width: 100%;
+  color: white;
+  background-size: cover;
+  background-color: black;
+}
+
+.ilustre {
+  border: solid 5px;
+  margin: 2vw;
+}
+
+.ilustre img {
+  max-width: 100%;
+}
+
+div {
+  width: 50%;
+}
+
+h2 {
+  width: 50%;
+  margin-left: 2vh;
+  padding-top: 2vh;
+}
+
+h3 {
+  width: 50%;
+  margin-left: 2vh;
+  padding-top: 2vh;
+}
+
+p {
+  width: 70%;
+  font-size: 18px;
+  margin: 2vh;
+  padding-left: 1vh;
+}
+
+.trailer {
+  background-color: yellow;
+  padding: 3px;
+  margin: 1vw;
+  border: solid orangered;
+  text-decoration: none;
+}
+
+article {
+  background-image: url("https://recreio.com.br/media/uploads/disney/jack_esqueleto_capa.jpg");
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  color: white;
+  font-size: 17px;
+}
+article p {
+  width: 60vh;
+  font-size: 20px;
+}
+article .sobre {
+  border: solid white;
+}
+
+footer {
+  background-color: rgb(0, 0, 118);
+  color: white;
+  height: 21vh;
+  text-align: center;
+}
+footer h3 {
+  display: inline-block;
+}
+footer div {
+  display: inline-block;
+}
+footer a {
+  color: yellow;
+  text-decoration: none;
+  display: inline-block;
+  padding: 2vw;
+  padding-left: 5vw;
+}
+footer p {
+  display: inline-block;
+}/*# sourceMappingURL=style.css.map */
